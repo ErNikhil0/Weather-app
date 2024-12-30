@@ -11,11 +11,7 @@ A simple and responsive weather app built using JavaScript, HTML, and CSS. It fe
 - **HTML5**: Structure of the app.  
 - **CSS3**: Styling and layout.  
 - **JavaScript (ES6)**: Fetching and processing weather data.  
-- **Weather API**: [OpenWeatherMap API](https://openweathermap.org/api).
 
-## 🚀 Live Demo
-[Live Demo](https://your-live-demo-link.com)  
-*(Replace the link with your deployed app URL.)*
 
 ## 📥 Installation
 1. Clone this repository:
